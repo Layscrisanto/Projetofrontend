@@ -1,0 +1,20 @@
+#Hello{
+    display: flex;
+}
+
+#helloTransparencia{
+    position: fixed;
+    width: 400px;
+    height: 100vh;
+    min-height: 400px;
+    background-image: url('./../../resource/Foto01.png');
+    background-repeat: no-repeat;
+
+}
+
+#helloPrincipal{
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    margin-left: 400px;
+}
